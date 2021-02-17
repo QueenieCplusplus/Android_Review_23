@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KatesWifi</string>
+    <string name="tab_text_1">Wifi mode</string>
+    <string name="tab_text_2">Wifi on</string>
+    <string name="tab_text_3">Wifi off</string>
+</resources>
