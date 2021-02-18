@@ -23,8 +23,6 @@ code in Fragement is different from code in Activity due to Lifecycle, however t
 
       class PlaceholderFragment : Fragment() {
 
-\
-
           lateinit var wifiSwitch: Switch
           lateinit var wifiManager: WifiManager
 
